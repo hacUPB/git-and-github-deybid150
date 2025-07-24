@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: deybid felipe castillo valencia 
+Id.: 000575761
 ---
 # Evaluación
 
@@ -18,7 +18,7 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 
 1. **Crea la estructura del proyecto:**
     - Clona el repositorio de la evaluación.
-    - De ahora en adelante seguirás trabajando en tu repositorio local.
+    - De ahora en adelante seguirás trabajando en tu repositorio local."images
     - Ubícate en el directorio raíz llamado `prog-Eval_Template`.
     - Dentro de este directorio, crea las siguientes carpetas:
         - `src`: para almacenar el código fuente.
@@ -81,3 +81,8 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
+Descripción del proyecto
+
+Este proyecto es una práctica de control de versiones utilizando Git y GitHub, que incluye la creación de un repositorio local y su sincronización con un repositorio remoto. Contiene un script básico en Python para calcular el promedio de números ingresados por el usuario, además de documentación que explica el uso de la consola, los comandos de Git para manejar repositorios locales y remotos, y la estructura organizada del proyecto para facilitar su mantenimiento y colaboración.
+
