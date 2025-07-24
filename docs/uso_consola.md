@@ -1,7 +1,5 @@
 **conceptos basicos**
 
-Crear un repositorio local con Git:
-
 1. Abre la terminal y ve al directorio de tu proyecto.
 2. Inicializa el repositorio:
    git init
