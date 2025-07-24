@@ -96,4 +96,7 @@ Cómo clonar y ejecutar el proyecto
 
 3. Ejecutar el script Python
    python src/script.py
+## Tabla de Contenido
 
+- [Uso de la consola](docs/uso_consola.md)  
+![uso de la consola](./images/contenido%20uso%20de%20consola.md.png)
