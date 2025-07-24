@@ -86,3 +86,14 @@ Descripción del proyecto
 
 Este proyecto es una práctica de control de versiones utilizando Git y GitHub, que incluye la creación de un repositorio local y su sincronización con un repositorio remoto. Contiene un script básico en Python para calcular el promedio de números ingresados por el usuario, además de documentación que explica el uso de la consola, los comandos de Git para manejar repositorios locales y remotos, y la estructura organizada del proyecto para facilitar su mantenimiento y colaboración.
 
+Cómo clonar y ejecutar el proyecto
+
+1. Clonar el repositorio
+   git clone https://github.com/tu_usuario/nombre_repositorio.git
+
+2. Entrar al directorio del proyecto
+   cd prog-Eval_Template
+
+3. Ejecutar el script Python
+   python src/script.py
+
