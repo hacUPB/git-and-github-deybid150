@@ -1,4 +1,30 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
+
+Descripción del proyecto
+
+Este proyecto es una práctica de control de versiones utilizando Git y GitHub, que incluye la creación de un repositorio local y su sincronización con un repositorio remoto. Contiene un script básico en Python para calcular el promedio de números ingresados por el usuario, además de documentación que explica el uso de la consola, los comandos de Git para manejar repositorios locales y remotos, y la estructura organizada del proyecto para facilitar su mantenimiento y colaboración.
+
+Cómo clonar y ejecutar el proyecto
+
+1. Clonar el repositorio
+   git clone https://github.com/tu_usuario/nombre_repositorio.git
+
+2. Entrar al directorio del proyecto
+   cd prog-Eval_Template
+
+3. Ejecutar el script Python
+   python src/script.py
+## Tabla de Contenido
+
+- [Uso de la consola](docs/uso_consola.md)  
+![uso de la consola](./images/uso%20consola.png)
+
+- [creacion de repositorio local](docs/repo_local.md)
+![repositorio local](./images/repo_local.png)
+
+- [creacion de repositorio remoto](docs/repo_remoto.md)
+![repositorio remoto](./images/repo_%20remoto.png)
+
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante: deybid felipe castillo valencia 
@@ -82,21 +108,4 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
 
-Descripción del proyecto
 
-Este proyecto es una práctica de control de versiones utilizando Git y GitHub, que incluye la creación de un repositorio local y su sincronización con un repositorio remoto. Contiene un script básico en Python para calcular el promedio de números ingresados por el usuario, además de documentación que explica el uso de la consola, los comandos de Git para manejar repositorios locales y remotos, y la estructura organizada del proyecto para facilitar su mantenimiento y colaboración.
-
-Cómo clonar y ejecutar el proyecto
-
-1. Clonar el repositorio
-   git clone https://github.com/tu_usuario/nombre_repositorio.git
-
-2. Entrar al directorio del proyecto
-   cd prog-Eval_Template
-
-3. Ejecutar el script Python
-   python src/script.py
-## Tabla de Contenido
-
-- [Uso de la consola](docs/uso_consola.md)  
-![uso de la consola](./images/contenido%20uso%20de%20consola.md.png)
